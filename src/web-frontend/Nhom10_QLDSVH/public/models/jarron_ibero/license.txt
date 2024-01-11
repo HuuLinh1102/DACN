@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jarrón íbero
+* source:	https://sketchfab.com/3d-models/jarron-ibero-9c93b01f362a48c0bd0ee9c0df6faa6b
+* author:	virtual3D_UGR (https://sketchfab.com/virtual3Dugr)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jarrón íbero" (https://sketchfab.com/3d-models/jarron-ibero-9c93b01f362a48c0bd0ee9c0df6faa6b) by virtual3D_UGR (https://sketchfab.com/virtual3Dugr) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

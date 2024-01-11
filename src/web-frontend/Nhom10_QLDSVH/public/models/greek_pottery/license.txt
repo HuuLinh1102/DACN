@@ -1,0 +1,11 @@
+Model Information:
+* title:	PBR Greek Pottery
+* source:	https://sketchfab.com/3d-models/pbr-greek-pottery-88d4b4e87c2a412abfdf9dbe5ae35765
+* author:	Ferocious Industries (https://sketchfab.com/ferociousindustries.matthias)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PBR Greek Pottery" (https://sketchfab.com/3d-models/pbr-greek-pottery-88d4b4e87c2a412abfdf9dbe5ae35765) by Ferocious Industries (https://sketchfab.com/ferociousindustries.matthias) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
